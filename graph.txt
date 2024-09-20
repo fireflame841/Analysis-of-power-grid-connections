@@ -1,0 +1,37 @@
+16
+19
+S
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+S A
+S B
+S C
+S I
+A D
+A E
+A J
+D I
+D J
+B F
+B G
+F K
+F M
+K M
+C H
+C O
+H L
+L N
+L O
